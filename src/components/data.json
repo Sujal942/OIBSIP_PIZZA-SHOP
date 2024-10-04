@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Margherita",
     "description": "Classic pizza topped with tomato sauce, mozzarella, and fresh basil.",
-    "price": 9.99,
+    "price": 150,
     "image": "../components/PizzaImages/Margherita.PNG",
     "quantity": 20
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Pepperoni",
     "description": "Traditional pizza with pepperoni slices, tomato sauce, and mozzarella cheese.",
-    "price": 11.99,
+    "price": 200,
     "image": "Pepperoni.PNG",
     "quantity": 20
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Vegetarian",
     "description": "Delicious pizza loaded with assorted vegetables and mozzarella cheese.",
-    "price": 10.99,
+    "price": 199,
     "image": "Vegetarian.PNG",
     "quantity": 20
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Tomato Pizza",
     "description": "Savory pizza topped with BBQ sauce, grilled chicken, onions, and cilantro.",
-    "price": 12.99,
+    "price": 179,
     "image": "TomatoPizza.PNG",
     "quantity": 20
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Hawaiian",
     "description": "Tropical pizza featuring ham, pineapple, tomato sauce, and mozzarella cheese.",
-    "price": 11.99,
+    "price": 300,
     "image": "./PizzaImages/Hawaiian.PNG",
     "quantity": 20
   }
