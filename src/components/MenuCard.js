@@ -62,7 +62,7 @@ const MenuCard = ({ pizza }) => {
       </div>
       <div className="px-6 py-4">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
-          ${pizza.price}
+          ₹{pizza.price}
         </span>
         <button
           className="bg-yellow-500 hover:bg-yellow-600 text-white font-semibold py-2 px-4 rounded-full"
